@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @sselvamani
-- 👀 I’m interested in Cloud 
+- 👀 I’m interested in Infrastructure,Virtualization and Cloud
 - 🌱 I’m currently learning 
     - AWS Solution Architect /Associate /professional 
     - Kubernetes
-    - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 💞️- 💞️- 💞️- 💞️- 💞️
 
 <!---
 sselvamani/sselvamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
