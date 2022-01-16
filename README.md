@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in Cloud 
 - 🌱 I’m currently learning 
-    - AWS Solution Architect /Associate /professional /Advanced Networking /Security
+    - AWS Solution Architect /Associate /professional 
     - Kubernetes
     - 
 - 💞️ I’m looking to collaborate on ...
