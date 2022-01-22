@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sselvamani
-- 👀 I’m interested in Infrastructure,Virtualization and Cloud
+- 👀 I’m interested in Ias
 - 🌱 I’m currently learning 
     - AWS Solution Architect /Associate /professional 
     - Kubernetes
