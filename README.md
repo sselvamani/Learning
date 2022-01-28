@@ -1,23 +1,22 @@
 - 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in IaaS and DevopS
+- 🌱 I	Completed 
+    - AWS Solution Architect -Associate -
+
 - 🌱 I’m currently learning 
-    - AWS Solution Architect -Associate /professional 
+	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start 
-
-Cloud Providers - 	Azure and GCP
+Cloud Providers -  GCP
 
 Containers - 	Docker
 Container Orchestration - 	Kubernetes
 
 Service Mesh - 	Istio
 Infrastructure Monitoring - 	Prometheus , Grafana
-
-
-Configuration managemment - 	Ansible	
-Infrastructure Provisioning - 	Terraform
-	
+Infrastructure Provisioning - 	Terraform	
 CI/CD Tools -	Jenkins	
+Scripting - Python,Go lang
 
 
 
