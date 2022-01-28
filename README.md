@@ -7,25 +7,31 @@
 	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start certifications 
-
-Cloud Providers -  GCP
-Kubernetes
-kubernetes Developer
-Terrafarm
-
+-	 GCP
+-	Kubernetes
+-	Kubernetes Developer
+-	Terrafarm
 
 
 
-Containers - 	Docker
-Container Orchestration - 	Kubernetes
+Containers
+	- 	Docker
+Container Orchestration
+	- 	Kubernetes
 
-Service Mesh - 	Istio
-Infrastructure Monitoring - Prometheus , Grafana
-Configuration managemment - Ansible
-Infrastructure Provisioning - 	Terraform	
-CI/CD Tools -	Jenkins	,Github Actions ,Spinnaker
+Service Mesh 
+	- 	Istio
+Infrastructure Monitoring 
+	- Prometheus , Grafana
+Configuration managemment
+	- Ansible
+Infrastructure Provisioning
+	- 	Terraform	
+CI/CD Tools
+	-	Jenkins	,Github Actions ,Spinnaker
 
-Scripting - Python,Go lang
+Scripting 
+	- Python,Go lang
 
 
 
