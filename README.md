@@ -16,17 +16,22 @@ Yet to start certifications
 
 Containers
 	- 	Docker
+
 Container Orchestration
 	- 	Kubernetes
 
 Service Mesh 
-	- 	Istio
+	- 	
+
 Infrastructure Monitoring 
 	- Prometheus , Grafana
+
 Configuration managemment
 	- Ansible
+
 Infrastructure Provisioning
 	- 	Terraform	
+
 CI/CD Tools
 	-	Jenkins	,Github Actions ,Spinnaker
 
