@@ -13,29 +13,28 @@ Yet to start certifications
 -	Terrafarm
 
 
-
-Containers
+👀  Containers
 	- 	Docker
 
-Container Orchestration
+👀  Container Orchestration
 	- 	Kubernetes
 
-Service Mesh 
+👀  Service Mesh 
 	- 	
 
-Infrastructure Monitoring 
+👀  Infrastructure Monitoring 
 	- Prometheus , Grafana
 
-Configuration managemment
+👀  Configuration managemment
 	- Ansible
 
-Infrastructure Provisioning
+👀  Infrastructure Provisioning
 	- 	Terraform	
 
-CI/CD Tools
+👀  CI/CD Tools
 	-	Jenkins	,Github Actions ,Spinnaker
 
-Scripting 
+👀  Scripting 
 	- Python,Go lang
 
 
