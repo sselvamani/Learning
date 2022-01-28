@@ -6,16 +6,25 @@
 - 🌱 I’m currently learning 
 	-	Microsoft Certified: Azure Administrator Associate
 
-Yet to start 
+Yet to start certifications 
+
 Cloud Providers -  GCP
+Kubernetes
+kubernetes Developer
+Terrafarm
+
+
+
 
 Containers - 	Docker
 Container Orchestration - 	Kubernetes
 
 Service Mesh - 	Istio
-Infrastructure Monitoring - 	Prometheus , Grafana
+Infrastructure Monitoring - Prometheus , Grafana
+Configuration managemment - Ansible
 Infrastructure Provisioning - 	Terraform	
-CI/CD Tools -	Jenkins	
+CI/CD Tools -	Jenkins	,Github Actions ,Spinnaker
+
 Scripting - Python,Go lang
 
 
