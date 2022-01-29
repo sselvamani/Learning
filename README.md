@@ -7,7 +7,7 @@
 	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start certifications 
--	 GCP
+-	GCP
 -	Kubernetes
 -	Kubernetes Developer
 -	Terrafarm
