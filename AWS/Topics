@@ -1,0 +1,78 @@
+AWS Certified Solutions Architect – Associate (SAA-C02) 
+
+Course -https://www.udemy.com/course/aws-certified-solutions-architect-associate-hands-on/
+
+Domain 1: Design Resilient Architectures
+    1.1 Design a multi-tier architecture solution
+            * Determine a solution design based on access patterns.
+            * Determine a scaling strategy for components used in a design.
+            * Select an appropriate database based on requirements.
+            * Select an appropriate compute and storage service based on requirements.
+    1.2 Design highly available and/or fault-tolerant architectures
+            *  Determine the amount of resources needed to provide a fault-tolerant architecture across
+            *  Availability Zones.
+            *  Select a highly available configuration to mitigate single points of failure.
+            *  Apply AWS services to improve the reliability of legacy applications when application changes are not possible.
+            *  Select an appropriate disaster recovery strategy to meet business requirements.
+            *  Identify key performance indicators to ensure the high availability of the solution.
+    1.3 Design decoupling mechanisms using AWS services
+            *  Determine which AWS services can be leveraged to achieve loose coupling of components.
+            *  Determine when to leverage serverless technologies to enable decoupling.
+    1.4 Choose appropriate resilient storage
+            *  Define a strategy to ensure the durability of data.
+            *  Identify how data service consistency will affect the operation of the application.
+            *  Select data services that will meet the access requirements of the application.
+            *  Identify storage services that can be used with hybrid or non-cloud-native application 
+
+Domain 2: Design High-Performing Architectures
+    2.1 Identify elastic and scalable compute solutions for a workload
+            *  Select the appropriate instance(s) based on compute, storage, and networking requirements.
+            *  Choose the appropriate architecture and services that scale to meet performance requirements.
+            *  Identify metrics to monitor the performance of the solution. 
+    2.2 Select high-performing and scalable storage solutions for a workload
+            *   Select a storage service and configuration that meets performance demands.
+            *   Determine storage services that can scale to accommodate future needs.
+    2.3 Select high-performing networking solutions for a workload
+            *   Select appropriate AWS connectivity options to meet performance demands.
+            *   Select appropriate features to optimize connectivity to AWS public services.
+            *   Determine an edge caching strategy to provide performance benefits.
+            *   Select appropriate data transfer service for migration and/or ingestion.
+    2.4 Choose high-performing database solutions for a workload
+            *   Select an appropriate database scaling strategy.
+            *   Determine when database caching is required for performance improvement.
+            *   Choose a suitable database service to meet performance needs  
+
+Domain 3: Design Secure Applications and Architectures
+    3.1 Design secure access to AWS resources
+            *   Determine when to choose between users, groups, and roles.
+            *   Interpret the net effect of a given access policy.
+            *   Select appropriate techniques to secure a root account.
+            *   Determine ways to secure credentials using features of AWS IAM.
+            *   Determine the secure method for an application to access AWS APIs.
+            *   Select appropriate services to create traceability for access to AWS resources.
+    3.2 Design secure application tiers
+            *    Given traffic control requirements, determine when and how to use security groups and network ACLs.
+            *    Determine a network segmentation strategy using public and private subnets.
+            *    Select the appropriate routing mechanism to securely access AWS service endpoints or internet-based resources from Amazon VPC.
+            *    Select appropriate AWS services to protect applications from external threats.
+    3.3 Select appropriate data security options
+            *   Determine the policies that need to be applied to objects based on access patterns.
+            *   Select appropriate encryption options for data at rest and in transit for AWS services.
+            *   Select appropriate key management options based on requirements
+
+
+Domain 4: Design Cost-Optimized Architectures
+    4.1 Identify cost-effective storage solutions
+            *   Determine the most cost-effective data storage options based on requirements.
+            *   Apply automated processes to ensure that data over time is stored on storage tiers that minimize costs.
+
+    4.2 Identify cost-effective compute and database services
+            *   Determine the most cost-effective Amazon EC2 billing options for each aspect of the workload.
+            *   Determine the most cost-effective database options based on requirements.
+            *   Select appropriate scaling strategies from a cost perspective.
+            *   Select and size compute resources that are optimally suited for the workload.
+            *   Determine options to minimize total cost of ownership (TCO) through managed services and serverless architectures.
+    4.3 Design cost-optimized network architectures
+            *   Identify when content delivery can be used to reduce costs.
+            *   Determine strategies to reduce data transfer costs within AWS.
+            *   Determine the most cost-effective connectivity options between AWS and on-premises environments.
