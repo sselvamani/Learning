@@ -9,8 +9,10 @@
 
 Yet to start certifications 
 -	GCP
+
 -	Kubernetes
 -	Kubernetes Developer
+	python
 -	Terrafarm
 
 
