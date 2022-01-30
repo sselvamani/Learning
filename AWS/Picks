@@ -12,7 +12,7 @@ Database:
         * Amazon ElastiCache
         * Amazon RDS
         * Amazon Redshift
-Management and Governance:
+        Management and Governance:
         * AWS Auto Scaling
         * AWS Backup
         * AWS CloudFormation
