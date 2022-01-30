@@ -26,7 +26,7 @@ Yet to start certifications
 👀  Infrastructure Monitoring 
 	- Prometheus , Grafana
 
-👀  Configuration managemment
+👀  Configuration Management 
 	- Ansible
 
 👀  Infrastructure Provisioning
