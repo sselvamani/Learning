@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in IaaS and DevopS
-- 🌱 I	Completed 
+- 🌱 I achieved 
     - AWS Solution Architect -Associate
 
 - 🌱 I’m currently learning 
