@@ -15,7 +15,7 @@ Database:
         Management and Governance:
         * AWS Auto Scaling
         * AWS Backup
-        * AWS CloudFormation
+        * AWS CloudFormation    -https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?dt=sec&sec=lp
         * AWS CloudTrail
         * Amazon CloudWatch
         * AWS Config
