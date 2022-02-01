@@ -9,4 +9,11 @@ Connectivity services
     Azure Peering service
 
 Virtual network
-    
+    VNet -Belongs to one location 
+    VNet is region and subscrption specific
+    non overlapping CIDR need to be used .CIDR - Classless Intern Domain routing  10.0.0.0/16  ( private ipaddress )
+    NSG used for CIDR security . traffic filtering 
+
+
+80
+
