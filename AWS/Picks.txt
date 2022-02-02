@@ -63,8 +63,8 @@ Storage:
 Additional to focus 
 
 Certificate Manager
-CloudFormation
+CloudFormation - https://www.youtube.com/watch?v=_svqAuI7zo8&list=PLeLcvrwLe186Ubc_TMjNAFQHawujq9uFO
 Directory Service
 Audit Manager
-WAF Shield
+WAF Shield - https://www.youtube.com/watch?v=L5KBhpXghiQ
 Secrets Manager
