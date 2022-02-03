@@ -38,7 +38,7 @@ Yet to start certifications
 	-	Jenkins	,Github Actions ,Spinnaker
 
 👀  Scripting 
-	- Python,Go lang
+	- Python,Go and Powershell
 
 
 
