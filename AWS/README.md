@@ -3,12 +3,6 @@
     - ✔️ AWS Solution Architect -Associate
 
 
-
-
-
-
-
-
 - 💞️ 
 - 📫 
  
