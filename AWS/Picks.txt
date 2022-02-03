@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 Compute:
         * Amazon EC2
         * AWS Elastic Beanstalk
@@ -6,6 +14,8 @@ Compute:
         * Elastic Load Balancing
         * AWS Fargate
         * AWS Lambda
+
+
 Database:
         * Amazon Aurora
         * Amazon DynamoDB
@@ -24,6 +34,8 @@ Database:
         * AWS Resource Access Manager
         * AWS Systems Manager
         * AWS Trusted Advisor
+
+
 Migration and Transfer:
         * AWS Database Migration Service (AWS DMS)
         * AWS DataSync
@@ -31,6 +43,8 @@ Migration and Transfer:
         * AWS Server Migration Service (AWS SMS)
         * AWS Snowball
         * AWS Transfer Family
+
+
 Networking and Content Delivery:
         * Amazon API Gateway
         * Amazon CloudFront
@@ -39,6 +53,8 @@ Networking and Content Delivery:
         * Amazon Route 53
         * AWS Transit Gateway
         * Amazon VPC (and associated features)
+
+
 Security, Identity, and Compliance:
         * AWS Certificate Manager (ACM)
         * AWS Directory Service
@@ -51,6 +67,8 @@ Security, Identity, and Compliance:
         * AWS Shield
         * AWS Single Sign-On
         * AWS WAF
+
+
 Storage:
         * Amazon Elastic Block Store (Amazon EBS)
         * Amazon Elastic File System (Amazon EFS)
