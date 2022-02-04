@@ -12,7 +12,7 @@ Yet to start certifications
 
 -	Kubernetes
 -	Kubernetes Developer
-	python
+-	python
 -	Terrafarm
 
 
