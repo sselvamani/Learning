@@ -1,11 +1,11 @@
 
 - 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in IaaS and DevopS
-
-    - ✔️ AWS Solution Architect -Associate
+- 🌱 I achieved 
+    - AWS Solution Architect -Associate
 
 - 🌱 I’m currently learning 
-	-📚	Microsoft Certified: Azure Administrator Associate
+	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start certifications 
 -	GCP
@@ -38,12 +38,12 @@ Yet to start certifications
 	-	Jenkins	,Github Actions ,Spinnaker
 
 👀  Scripting 
-	- Python,Go and Powershell
+	- Python,Go lang
 
 
 
 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AWS.Kubernetes learnings
 - 📫 How to reach me ...
 - 💞️- 💞️- 💞️- 💞️- 💞️
 
