@@ -37,7 +37,7 @@ Yet to start certifications
 👀  CI/CD Tools
 	-	Jenkins	,Github Actions ,Spinnaker
 
-👀  Scripting 
+👀 ##Scripting 
 	- Python,Go lang
 
 
@@ -53,4 +53,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-git clone https://github.com/sangam14/CloudNativeLab/tree/master/Kubernetes
