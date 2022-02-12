@@ -1,10 +1,10 @@
 
-- 👋 Hi, I’m @sselvamani
+-  Hi, I’m # @sselvamani
 - 👀 I’m interested in IaaS and DevopS
-- 🌱 I achieved 
+# I achieved 
     - AWS Solution Architect -Associate
 
-- 🌱 I’m currently learning 
+- # I’m currently learning 
 	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start certifications 
@@ -15,30 +15,31 @@ Yet to start certifications
 -	python
 -	Terrafarm
 
+ # Containers
+👀	Docker
 
-👀  Containers
-	- 	Docker
 
-👀  Container Orchestration
-	- 	Kubernetes
+# Container Orchestration
+👀  Kubernetes
 
-👀  Service Mesh 
-	- 	
+# Service Mesh 
+👀   	
 
-👀  Infrastructure Monitoring 
-	- Prometheus , Grafana
+# Infrastructure Monitoring 
+👀  Prometheus , Grafana
 
-👀  Configuration Management 
-	- Ansible
 
-👀  Infrastructure Provisioning
-	- 	Terraform	
+#  Configuration Management 
+👀  Ansible
 
-👀  CI/CD Tools
-	-	Jenkins	,Github Actions ,Spinnaker
+# Infrastructure Provisioning
+👀  Terraform	
 
-👀 ##Scripting 
-	- Python,Go lang
+# CI/CD Tools
+👀  Jenkins	,Github Actions ,Spinnaker
+
+# Scripting 
+👀  Python,Go lang
 
 
 
