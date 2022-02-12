@@ -5,18 +5,19 @@
 
 
 Database:
-        * Amazon Aurora
+        * Amazon Aurora (Ok)
         * Amazon DynamoDB
         * Amazon ElastiCache
         * Amazon RDS
         * Amazon Redshift
-        Management and Governance:
-        * AWS Auto Scaling
-        * AWS Backup
+
+Management and Governance:
+        * AWS Auto Scaling (Ok)
+        * AWS Backup ( ok )
         * AWS CloudFormation    -https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-foundations-learning-plan?dt=sec&sec=lp
-        * AWS CloudTrail
-        * Amazon CloudWatch
-        * AWS Config
+        * AWS CloudTrail (ok)
+        * Amazon CloudWatch ( ok)
+AWS Config
         * Amazon EventBridge (Amazon CloudWatch Events)
         * AWS Organizations
         * AWS Resource Access Manager
@@ -28,19 +29,19 @@ Migration and Transfer:
         * AWS Database Migration Service (AWS DMS)
         * AWS DataSync
         * AWS Migration Hub
-        * AWS Server Migration Service (AWS SMS)
-        * AWS Snowball
+        * AWS Server Migration Service (AWS SMS) 
+        * AWS Snowball (Done)
         * AWS Transfer Family
 
 
 Networking and Content Delivery:
         * Amazon API Gateway
-        * Amazon CloudFront
-        * AWS Direct Connect
+        * Amazon CloudFront ( ok)
+        * AWS Direct Connect (ok )
         * AWS Global Accelerator
-        * Amazon Route 53
-        * AWS Transit Gateway
-        * Amazon VPC (and associated features)
+        * Amazon Route 53 (Ok)
+        * AWS Transit Gateway (Ok)
+        * Amazon VPC (and associated features) (Ok)
 
 
 Security, Identity, and Compliance:
@@ -57,9 +58,9 @@ Security, Identity, and Compliance:
         * AWS WAF
 
 
-Storage:
-        * Amazon Elastic Block Store (Amazon EBS)
-        * Amazon Elastic File System (Amazon EFS)
+Storage: (OK )
+        * Amazon Elastic Block Store (Amazon EBS) (ok)
+        * Amazon Elastic File System (Amazon EFS) (ok)
         * Amazon FSx
         * Amazon S3
         * Amazon S3 Glacier
