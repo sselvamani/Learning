@@ -14,6 +14,7 @@ Yet to start certifications
 -	Kubernetes Developer
 -	python
 -	Terrafarm
+-	Anthos
 
  # Containers
 👀	Docker
@@ -23,7 +24,7 @@ Yet to start certifications
 👀  Kubernetes
 
 # Service Mesh 
-👀   	
+👀  Istio
 
 # Infrastructure Monitoring 
 👀  Prometheus , Grafana
@@ -36,11 +37,16 @@ Yet to start certifications
 👀  Terraform	
 
 # CI/CD Tools
-👀  Jenkins	,Github Actions ,Spinnaker
+👀  Jenkins,Github Actions ,Spinnaker,Tekton
 
 # Scripting 
 👀  Python,Go lang
 
+# Application auto scaling 
+    Knative
+
+# Policy management
+    OPA
 
 
 
