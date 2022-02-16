@@ -1,10 +1,10 @@
 
--  Hi, I’m # @sselvamani
+- 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in IaaS and DevopS
-# I achieved 
+- 🌱 I achieved 
     - AWS Solution Architect -Associate
 
-- # I’m currently learning 
+- 🌱 I’m currently learning 
 	-	Microsoft Certified: Azure Administrator Associate
 
 Yet to start certifications 
@@ -14,39 +14,32 @@ Yet to start certifications
 -	Kubernetes Developer
 -	python
 -	Terrafarm
--	Anthos
-
- # Containers
-👀	Docker
 
 
-# Container Orchestration
-👀  Kubernetes
+👀  Containers
+	- 	Docker
 
-# Service Mesh 
-👀  Istio
+👀  Container Orchestration
+	- 	Kubernetes
 
-# Infrastructure Monitoring 
-👀  Prometheus , Grafana
+👀  Service Mesh 
+	- 	
 
+👀  Infrastructure Monitoring 
+	- Prometheus , Grafana
 
-#  Configuration Management 
-👀  Ansible
+👀  Configuration Management 
+	- Ansible
 
-# Infrastructure Provisioning
-👀  Terraform	
+👀  Infrastructure Provisioning
+	- 	Terraform	
 
-# CI/CD Tools
-👀  Jenkins,Github Actions ,Spinnaker,Tekton
+👀  CI/CD Tools
+	-	Jenkins	,Github Actions ,Spinnaker
 
-# Scripting 
-👀  Python,Go lang
+👀  Scripting 
+	- Python,Go lang
 
-# Application auto scaling 
-    Knative
-
-# Policy management
-    OPA
 
 
 
@@ -58,5 +51,4 @@ Yet to start certifications
 sselvamani/sselvamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
