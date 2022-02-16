@@ -13,7 +13,7 @@ Yet to start certifications
 -	Kubernetes
 -	Kubernetes Developer
 -	python
--	Terrafarm
+-	Terraform
 
 
 👀  Containers
