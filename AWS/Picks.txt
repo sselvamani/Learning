@@ -6,10 +6,10 @@
 
 Database:
         * Amazon Aurora (Ok)
-        * Amazon DynamoDB
-        * Amazon ElastiCache
+        * Amazon DynamoDB(Ok)
+        * Amazon ElastiCache (ok)
         * Amazon RDS
-        * Amazon Redshift
+        * Amazon Redshift(ok)
 
 Management and Governance:
         * AWS Auto Scaling (Ok)
