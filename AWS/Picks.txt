@@ -75,3 +75,16 @@ Directory Service
 Audit Manager
 WAF Shield - https://www.youtube.com/watch?v=L5KBhpXghiQ
 Secrets Manager
+
+Worked : 
+How to Migrate your Virtual Machines to AWS using the AWS Server Migration Service - https://www.youtube.com/watch?v=_SpRpC2Ez9c 
+
+
+services
+--> Applications 
+        Create  new application
+         {select teh servers needed application }
+          { configure replica settings }
+
+
+          BYOL - Bring your own Licsese 
