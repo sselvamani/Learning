@@ -76,6 +76,10 @@ Audit Manager
 WAF Shield - https://www.youtube.com/watch?v=L5KBhpXghiQ
 Secrets Manager
 
+Learn 
+AWS CodePipeline tutorial | Build a CI/CD Pipeline on AWS - https://www.youtube.com/watch?v=NwzJCSPSPZs
+
+
 Worked : 
 How to Migrate your Virtual Machines to AWS using the AWS Server Migration Service - https://www.youtube.com/watch?v=_SpRpC2Ez9c 
 
