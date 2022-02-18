@@ -1,0 +1,34 @@
+Essentials 
+    -Regions and Availibility Zones
+    -VPC
+    -EC2
+    -S3
+    -IAM
+
+CI/CD
+    -CodeCommint
+    -CodeBuild
+    -CodeDeploy
+    -CodePipeline
+
+Infrastructure
+    -ECS
+    -EKS
+    -Lambda
+    -CloudFormation
+    -Cloud Developement Kid
+    -Terraform
+
+Security 
+    -IAM Policies
+    -VPN Security Groups
+    -CloudTrail
+
+Monitoring
+    -CLoudWatch
+    -Metrics
+    -Alarms
+    -Logs
+    -DashBoards
+    
+
