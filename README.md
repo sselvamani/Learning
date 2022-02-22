@@ -5,7 +5,7 @@
     - AWS Solution Architect -Associate
 
 - 🌱 I’m currently learning 
-	-	Microsoft Certified: Azure Administrator Associate
+	-	Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 Yet to start certifications 
 -	GCP
