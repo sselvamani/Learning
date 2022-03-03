@@ -12,9 +12,8 @@ module "ec2_instance" {
   monitoring             = true
   vpc_security_group_ids = ["sg-06936e6a9e1055f0d"]
   subnet_id              = "subnet-0217fb2dff66cc424"
-
   tags = {
-    Terraform   = "true" ""
-    Environment = "dev"
+  Terraform   = "true"
+  Environment = "dev"
   }
 }
