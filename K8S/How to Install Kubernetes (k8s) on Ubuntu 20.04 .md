@@ -11,7 +11,7 @@ $ sudo hostnamectl set-hostname "k8s-node-1"     // Run this command on node-1
 
 Update the  entries in "/etc/hosts" files on each node,
 
-192.168.1.100    k8s-master
+192.168.1.100   k8s-master
 192.168.1.101   k8s-node-0
 192.168.1.102   k8s-node-1
 
@@ -72,4 +72,10 @@ $sudo systemctl enable --now containerd
 $sudo systemctl status containerd
 
 And that’s it, from here you can install and configure Kubernetes on top of this container runtime. In an upcoming post, I will bootstrap a cluster using containerd as the container runtime.
+
+Learned : 
+      If containerd versions are different ,there is no issue found. 
+
+
+
 
