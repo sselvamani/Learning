@@ -8,7 +8,9 @@ Adduser
 
 Swap Off 
 
-      sudo swapoff -a && sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
+      sudo swapoff -a && sudo sed -i '/ swap / s/^\(.*\)$/#\1/g' 
+      /etc/fstab
+      
 Set the hostname 
 
       $ sudo hostnamectl set-hostname "k8s-master"     // Run this command on master node
