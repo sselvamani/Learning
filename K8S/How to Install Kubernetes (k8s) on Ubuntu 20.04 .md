@@ -22,7 +22,6 @@ First load two modules in the current running environment and configure them to 
 
       $sudo modprobe overlay
       $sudo modprobe br_netfilter
-
       $cat <<EOF | sudo tee /etc/modules-load.d/containerd.conf
       $overlay
       $br_netfilter
@@ -37,12 +36,14 @@ Configure required sysctl to persist across system reboots
       $EOF
 
 Apply sysctl parameters without reboot to current running enviroment
+
       $sudo sysctl --system
       $Install containerd packages
       $sudo apt-get update 
       $sudo apt-get install -y containerd
 
 Create a containerd configuration file
+
       $sudo mkdir -p /etc/containerd
       $sudo containerd config default | sudo tee /etc/containerd/config.toml
 
@@ -60,7 +61,7 @@ Around line 112, change the value for SystemCgroup from false to true.
             SystemdCgroup = true
 If you like, you can use sed to swap it out in the file with out having to manually edit the file.
 
-$sudo sed -i 's/            SystemdCgroup = false/            SystemdCgroup = true/' /etc/containerd/config.toml
+      $sudo sed -i 's/            SystemdCgroup = false/            SystemdCgroup = true/' /etc/containerd/config.toml
 //
 
 service state of containerD
