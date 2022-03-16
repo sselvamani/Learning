@@ -1,12 +1,11 @@
 # Prepare the server 
 
-sudo apt update -y && sudo apt upgrade -y
-
+      sudo apt update -y && sudo apt upgrade -y
 Set the hostname 
 
-$ sudo hostnamectl set-hostname "k8s-master"     // Run this command on master node
-$ sudo hostnamectl set-hostname "k8s-node-0"     // Run this command on node-0
-$ sudo hostnamectl set-hostname "k8s-node-1"     // Run this command on node-1
+      $ sudo hostnamectl set-hostname "k8s-master"     // Run this command on master node
+      $ sudo hostnamectl set-hostname "k8s-node-0"     // Run this command on node-0
+      $ sudo hostnamectl set-hostname "k8s-node-1"     // Run this command on node-1
 
 
 Update the  entries in "/etc/hosts" files on each node,
@@ -16,7 +15,7 @@ Update the  entries in "/etc/hosts" files on each node,
 192.168.1.102   k8s-node-1
 
 
-Install COntainerd runtime  on all the hosts 
+#Install COntainerd runtime  on all the hosts 
 
 Configure required modules
 First load two modules in the current running environment and configure them to load on boot
@@ -66,10 +65,10 @@ $sudo sed -i 's/            SystemdCgroup = false/            SystemdCgroup = tr
 
 service state of containerD
 
-$sudo systemctl restart containerd
-$sudo systemctl status containerd
-$sudo systemctl enable --now containerd
-$sudo systemctl status containerd
+      $sudo systemctl restart containerd
+      $sudo systemctl status containerd
+      $sudo systemctl enable --now containerd
+      $sudo systemctl status containerd
 
 And that’s it, from here you can install and configure Kubernetes on top of this container runtime. In an upcoming post, I will bootstrap a cluster using containerd as the container runtime.
 
