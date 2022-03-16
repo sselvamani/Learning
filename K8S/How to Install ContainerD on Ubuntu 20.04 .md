@@ -53,35 +53,49 @@ Install containerd packages
       $sudo apt-get install -y containerd
 
 Create a containerd configuration file
+      sudo su -
+      mkdir -p /etc/containerd
 
-      $sudo mkdir -p /etc/containerd
-      $sudo containerd config default | sudo tee /etc/containerd/config.toml
+/Set the cgroup driver for runc to systemd
+/Set the cgroup driver for runc to systemd which is required for the kubelet.
+/For more information on this config file see the containerd configuration docs here and also here.
 
-Set the cgroup driver for runc to systemd
-Set the cgroup driver for runc to systemd which is required for the kubelet.
-For more information on this config file see the containerd configuration docs here and also here.
+      containerd config default | sudo tee /etc/containerd/config.toml
+      sed -i 's/            SystemdCgroup = false/            SystemdCgroup = true/' /etc/containerd/config.toml
 
-//
-At the end of this section in /etc/containerd/config.toml
 
-      [plugins."io.containerd.grpc.v1.cri".containerd.runtimes.runc.options]
-      ...
-Around line 112, change the value for SystemCgroup from false to true.
-
-            SystemdCgroup = true
-If you like, you can use sed to swap it out in the file with out having to manually edit the file.
-
-      $sudo sed -i 's/            SystemdCgroup = false/            SystemdCgroup = true/' /etc/containerd/config.toml
-//
 
 service state of containerD
 
-      $sudo systemctl restart containerd
-      $
-      $sudo systemctl enable --now containerd
-      $sudo systemctl status containerd
+      systemctl restart containerd
+      systemctl enable --now containerd
+      systemctl status containerd
 
 And that’s it, from here you can install and configure Kubernetes on top of this container runtime. In an upcoming post, I will bootstrap a cluster using containerd as the container runtime.
+
+
+#     Master node
+      lsmod | grep br_netfilter
+      sudo systemctl enable kubelet
+
+      sudo kubectl apply -f https://projectcalico.docs.tigera.io/manifests/calico.yaml
+      sudo kubectl get nodes
+      sudo kubectl get nodes -o wide
+
+      sudo kubeadm init
+
+mkdir -p $HOME/.kube
+  sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+  sudo chown $(id -u):$(id -g) $HOME/.kube/config
+      sudo kubeadm config images pull --cri-socket /run/containerd/containerd.sock
+  kubectl get nodes -o wide
+  kubectl cluster-info
+
+
+
+
+
+
 
 Learned : 
       If containerd versions are different ,there is no issue found. 
