@@ -10,9 +10,9 @@ Set the hostname
 
 Update the  entries in "/etc/hosts" files on each node,
 
-192.168.1.100   k8s-master
-192.168.1.101   k8s-node-0
-192.168.1.102   k8s-node-1
+      192.168.1.100   k8s-master
+      192.168.1.101   k8s-node-0
+      192.168.1.102   k8s-node-1
 
 
 #Install COntainerd runtime  on all the hosts 
