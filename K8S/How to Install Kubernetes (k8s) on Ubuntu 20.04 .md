@@ -38,7 +38,8 @@ Configure required sysctl to persist across system reboots
 Apply sysctl parameters without reboot to current running enviroment
 
       $sudo sysctl --system
-      $Install containerd packages
+
+Install containerd packages
       $sudo apt-get update 
       $sudo apt-get install -y containerd
 
