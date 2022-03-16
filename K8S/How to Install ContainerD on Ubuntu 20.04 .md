@@ -89,8 +89,8 @@ And that’s it, from here you can install and configure Kubernetes on top of th
       sudo chown $(id -u):$(id -g) $HOME/.kube/config
 
       sudo kubeadm config images pull --cri-socket /run/containerd/containerd.sock
-       kubectl get nodes -o wide
-       kubectl cluster-info
+      kubectl get nodes -o wide
+      kubectl cluster-info
 
 
 
