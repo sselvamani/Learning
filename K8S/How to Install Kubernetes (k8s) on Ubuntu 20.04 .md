@@ -1,10 +1,9 @@
 # Prepare the server 
 
-sudo adduser  kartook
+Adduser
 
-sudo usermod -aG sudo kartook
-
-
+      sudo adduser  kartook
+      sudo usermod -aG sudo kartook
       sudo apt update -y && sudo apt upgrade -y
 
 Swap Off 
