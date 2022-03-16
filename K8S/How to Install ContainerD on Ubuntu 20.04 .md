@@ -21,7 +21,7 @@ Update the  entries in "/etc/hosts" files on each node,
       192.168.1.100   k8s-master
       192.168.1.101   k8s-node-0
       192.168.1.102   k8s-node-1
-
+hostname
 
 #Install Containerd runtime  on all the hosts 
 
@@ -77,7 +77,7 @@ If you like, you can use sed to swap it out in the file with out having to manua
 service state of containerD
 
       $sudo systemctl restart containerd
-      $sudo systemctl status containerd
+      $
       $sudo systemctl enable --now containerd
       $sudo systemctl status containerd
 
