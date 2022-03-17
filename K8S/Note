@@ -17,7 +17,10 @@
     sudo apt update &&  sudo apt install -y kubeadm=1.22.x-00 && \
     sudo apt-mark hold kubeadm
 
-    #Note: kubeadm upgrade also automatically renews the certificates that it manages on this node. To opt-out of certificate renewal the flag --certificate-renewal=false can be used. For more information see the certificate management guide - https://v1-22.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/
+    #Note: 
+    kubeadm upgrade also automatically renews the certificates that it manages on this node. 
+    To opt-out of certificate renewal the flag --certificate-renewal=false can be used. For more 
+    information see the certificate management guide - https://v1-22.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-certs/
 
     sudo kubeadm upgrade plan
     sudo kubeadm upgrade apply vx.xx.xx
