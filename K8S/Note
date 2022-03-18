@@ -22,25 +22,19 @@ Get the detailed information about the upgrade process from the below-mentioned 
 
 ## UPGRADE CONTROLPLANE NODE
 
+    # Update the repositiry
 
-```bash
-
-# Update the repositiry
-
-sudo apt update
+    sudo apt update
 
 
 
 # Check for the lastest kubernetes release versions
 
-sudo apt-cache madison kubeadm
+    sudo apt-cache madison kubeadm
 
-```
 
 **UPGRADE KUBEADM**
 
- 
-```bash
 
 # Unholds to upgrade kubeadm package
 
@@ -66,19 +60,13 @@ sudo kubeadm upgrade plan
 
 sudo kubeadm upgrade apply v1.20.4
 
-```
-
- 
 
 **UPGRADE KUBECTL AND KUBELET**
- 
 
-```bash
 
 # Drain the control plane node
 
 kubectl drain manager --ignore-daemonsets
-
  
 
 # Unholds to upgrade for kubelet and kubectl
@@ -121,9 +109,6 @@ sudo systemctl status kubelet
 
 kubectl uncordon manager
 
-```
-
- 
 
 ## UPGRADE WORKER NODES
 
@@ -174,19 +159,18 @@ sudo kubeadm upgrade node
  
 > On control plane node
 
-```bash
+
 
 # Drain the worker1 node
 
 kubectl drain worker1 --ignore-daemonsets --delete-emptydir-data
 
-```
 
  
 
 > On Worker node
 
-```bash
+
 
 # Unholds to upgrade kubelet and kubectl
 
@@ -216,21 +200,15 @@ sudo systemctl daemon-reload
 
 sudo systemctl restart kubelet
 
-```
-
- 
 
 > On control plane node
 
-```bash
 
 # Uncordon the worker node to bring it online and run the below command on control plane node.
 
 kubectl uncordon worker1
 
-```
 
- 
 
 Perform above steps on all the worker nodes to upgrade kubeadm, kubelet and kubectl.
 
@@ -238,13 +216,17 @@ Perform above steps on all the worker nodes to upgrade kubeadm, kubelet and kube
 
 > On control plane node
 
-```bash
-
 # Verify the cluster to list the updated nodes.
 
 kubectl get nodes
 
-```
+
+
+
+
+
+
+
 
 
 * Practice Docker engine to ContainerD 
