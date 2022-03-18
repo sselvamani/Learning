@@ -1,10 +1,6 @@
+ 
 
-
-* Practice to upgrade containerD
-
-#Practice upgrade k8s versions 
-
-[Kubernetes upgrade ](https://v1-22.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
+[Kubernetes upgrade ] (https://v1-22.docs.kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 
 
 # UPGRADE KUBERNETES CLUSTER
