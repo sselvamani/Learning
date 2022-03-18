@@ -15,7 +15,6 @@ Get the detailed information about the upgrade process from the below-mentioned 
 [Kubernetes](https://kubernetes.io)
 
  
-
 ## UPGRADE CONTROLPLANE NODE
 
     # Update the repositiry
@@ -23,11 +22,9 @@ Get the detailed information about the upgrade process from the below-mentioned 
     sudo apt update
 
 
-
 # Check for the lastest kubernetes release versions
 
     sudo apt-cache madison kubeadm
-
 
 **UPGRADE KUBEADM**
 
