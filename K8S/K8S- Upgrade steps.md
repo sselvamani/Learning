@@ -108,30 +108,23 @@ kubectl uncordon manager
 Note: worker nodes should not be upgraded simultaneously.
 
  
-**UPGRADE KUBEADM**
+**UPGRADE KUBEADM** | On Worker node
 
  
-> On Worker node
-
-```bash
-
 # Update the repositiry
 
 sudo apt update
-
  
 
 # Unholds to upgrade kubeadm
 
 sudo apt-mark unhold kubeadm
-
  
 
 # Install the new version of kubeadm, here the version is 1.20.4-00
 
 sudo apt update && sudo apt install -y kubeadm=1.20.4-00
 
- 
 
 # Hold the package to prevent upgrade
 
@@ -143,39 +136,27 @@ sudo apt-mark hold kubeadm
 
 sudo kubeadm upgrade node
 
-```
+
+
+**UPGRADE KUBECTL AND KUBELET**  | On control plane node
 
  
-
-**UPGRADE KUBECTL AND KUBELET**
-
- 
-> On control plane node
-
-
-
 # Drain the worker1 node
 
 kubectl drain worker1 --ignore-daemonsets --delete-emptydir-data
 
-
- 
-
-> On Worker node
-
+# On Worker node
 
 
 # Unholds to upgrade kubelet and kubectl
 
 sudo apt-mark unhold kubelet kubectl
-
  
 
 # Install the new version of kubelet and kubectl, here the version is 1.20.4-00
 
 sudo apt-get update && sudo apt-get install -y kubelet=1.20.4-00 kubectl=1.20.4-00
 
- 
 
 # Hold the package to prevent upgrade
 
@@ -214,15 +195,6 @@ Perform above steps on all the worker nodes to upgrade kubeadm, kubelet and kube
 kubectl get nodes
 
 
-
-
-
-
-
-
-
-
-* Practice Docker engine to ContainerD 
 * Practice to use AppArmor
 
 
