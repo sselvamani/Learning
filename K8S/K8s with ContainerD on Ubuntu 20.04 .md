@@ -25,7 +25,7 @@ Update the  entries in "/etc/hosts" files on each node,
       192.168.1.102   k8s-node-1
 hostname
 
-#Install Containerd runtime  on all the hosts 
+#     Install Containerd runtime  on all the hosts 
 
 Configure required modules
 First load two modules in the current running environment and configure them to load on boot
@@ -67,7 +67,7 @@ Create a containerd configuration file
 
 
 
-service state of containerD
+# service state of containerD
 
       systemctl restart containerd
       systemctl enable --now containerd
