@@ -43,8 +43,6 @@ Enable-WindowsOptionalFeature -Online -FeatureName IIS-ISAPIExtensions
 Enable-WindowsOptionalFeature -Online -FeatureName IIS-ISAPIFilter
 Enable-WindowsOptionalFeature -Online -FeatureName IIS-HttpCompressionStatic
 
-Enable-WindowsOptionalFeature -Online -FeatureName IIS-ASPNET45
-
 # If you need classic ASP (not recommended)
 #Enable-WindowsOptionalFeature -Online -FeatureName IIS-ASP
 
