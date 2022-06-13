@@ -8,12 +8,12 @@
 	-	Microsoft Certified: Azure Administrator Associate (AZ-104)
 
 Yet to start certifications 
--	GCP
-
+-	Terraform
 -	Kubernetes
+- Istilo
 -	Kubernetes Developer
 -	python
--	Terraform
+
 
 
 👀  Containers
@@ -28,8 +28,6 @@ Yet to start certifications
 👀  Infrastructure Monitoring 
 	- Prometheus , Grafana
 
-👀  Configuration Management 
-	- Ansible
 
 👀  Infrastructure Provisioning
 	- 	Terraform	
