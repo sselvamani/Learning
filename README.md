@@ -23,7 +23,7 @@ Yet to start certifications
 	- 	Kubernetes
 
 👀  Service Mesh 
-	- Istilo	
+	- Istio	
 
 👀  Infrastructure Monitoring 
 	- Prometheus , Grafana
