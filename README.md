@@ -1,26 +1,21 @@
 
-- 👋 Hi, I’m @sselvamani
 - 👀 I’m interested in IaaS and DevopS
 - 🌱 I achieved 
     - AWS Solution Architect -Associate
+    - Microsoft Certified: Azure Administrator Associate
 
 - 🌱 I’m currently learning 
-	-	Microsoft Certified: Azure Administrator Associate (AZ-104)
+	- Microsoft Certified: Azure Solutions Architect Expert
 
-Yet to start certifications 
--	Terraform
--	Kubernetes
-- Istilo
+Yet to start certifications
+-	AWS Certified Solutions Architect - Professional
+-	
+-	Kubernetes 
 -	Kubernetes Developer
--	python
+-       Terraform
+-	python 👀 
 
 
-
-👀  Containers
-	- 	ContainerD,podman
-
-👀  Container Orchestration
-	- 	Kubernetes
 
 👀  Service Mesh 
 	- Istio	
@@ -33,10 +28,10 @@ Yet to start certifications
 	- 	Terraform	
 
 👀  CI/CD Tools
-	-	Jenkins	,Github Actions ,Spinnaker
+	-	Jenkins,GitHub Actions
 
 👀  Scripting 
-	- Python,Go lang
+	- Python
 
 ## How to be zero to superHero
 	-Learn
