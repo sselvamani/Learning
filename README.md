@@ -9,9 +9,10 @@
     -  AWS Certified Solutions Architect - Professional
      
 Yet to start certifications:	
--	Kubernetes 
--	Kubernetes Developer
--       Terraform
+-	Google Cloud
+-	Oracle Cloud
+-	Kubernetes
+-	Terraform
 -	python 👀 
 
 
