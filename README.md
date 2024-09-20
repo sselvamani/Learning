@@ -3,18 +3,16 @@
 - 🌱 I achieved 
     - AWS Solution Architect -Associate
     - Microsoft Certified: Azure Administrator Associate
+    -  Microsoft Certified: Azure Solutions Architect Expert
 
-- 🌱 I’m currently learning 
-	- Microsoft Certified: Azure Solutions Architect Expert
-
-Yet to start certifications
--	AWS Certified Solutions Architect - Professional
--	
+- 🌱 I’m currently learning
+    -  AWS Certified Solutions Architect - Professional
+     
+Yet to start certifications:	
 -	Kubernetes 
 -	Kubernetes Developer
 -       Terraform
 -	python 👀 
-
 
 
 👀  Service Mesh 
@@ -24,8 +22,8 @@ Yet to start certifications
 	- Prometheus , Grafana
 
 
-👀  Infrastructure Provisioning
-	- 	Terraform	
+👀  Infrastructure As A Code
+	- 	Terraform , Ansible	
 
 👀  CI/CD Tools
 	-	Jenkins,GitHub Actions
@@ -34,85 +32,17 @@ Yet to start certifications
 	- Python
 
 ## How to be zero to superHero
-	-Learn
-			-VSCODE
-			-Github
-			-Yaml
-			-AWS Cloud 
-					-Regions and Availibility Zones
-					-VPC
-					-EC2
-					-S3
-					-IAM
+	- Learn Daily 
+	- VSCODE
+	- Github
+	- Yaml
+	- AWS Cloud 
+ 	- Azure Cloud
+	- GCP
+ 	- Oracle Cloud
+	- Docker
+	- Kubernetes
 
-				CI/CD
-					-CodeCommint
-					-CodeBuild
-					-CodeDeploy
-					-CodePipeline
-
-				Infrastructure
-					-ECS
-					-EKS
-					-Lambda
-					-CloudFormation
-					-Cloud Developement Kid
-					-Terraform
-
-				Security 
-					-IAM Policies
-					-VPN Security Groups
-					-CloudTrail
-
-				Monitoring
-					-CLoudWatch
-					-Metrics
-					-Alarms
-					-Logs
-					-DashBoards				
-
-		-Azure cloud
-				Azure Boards    
-					-   Connected from idea to release
-					-   Scrum ready
-					-   Built for insights
-
-
-
-				Azure Pipelines 
-							-   Any language, any platform
-							-   Containers and Kubernetes
-							-   Extensible
-							-   Deploy to any cloud
-							-   Free for open source
-							-   Advanced workflows and features
-
-
-				Azure Reports   
-							-   Support for any Git client
-							-   Web hooks and API integration
-							-   Semantic code search
-
-				Azure TestPlans
-							-   Capture rich data
-							-   Test across web and desktop
-							-   Get end-to-end traceability
-
-
-				Azure Artifacts
-							-   Share code efficiently
-							-   Manage all package types
-							-   Add packages to any pipeline
-
-
-				Extensions for Azure DevOps
-
-		-Docker
-		-Kubernetes
-
-
-
-- 💞️ I’m looking to collaborate on AWS.Kubernetes learnings
 - 📫 How to reach me ...
 - 💞️- 💞️- 💞️- 💞️- 💞️
 
